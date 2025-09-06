@@ -23,7 +23,7 @@ Built with **React, TailwindCSS, and LocalStorage**, it’s lightweight, fast, a
 - ⚛️ **React** (Hooks + Context API)  
 - 🎨 **TailwindCSS** (UI & Styling)  
 - 💾 **LocalStorage** (Data Persistence)  
-- 📊 **Chart.js / Recharts** (Data Visualization)  
+- 📊 **Chart.js / Recharts** (Data Visualization)
 
 ---
 
@@ -43,14 +43,4 @@ npm install
 
 # Start the Development Server
 npm run dev
-📂 Project Structure
-Travel_Buddy/
-│── public/         # Static assets
-│── src/
-│   ├── components/ # Reusable UI components
-│   ├── context/    # Context API (state management)
-│   ├── pages/      # Application pages
-│   ├── utils/      # Helper functions
-│   └── App.jsx     # Main entry
-│── package.json
-
+---

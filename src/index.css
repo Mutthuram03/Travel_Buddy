@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", "Segoe UI", sans-serif;
+  background: radial-gradient(circle at 10% 10%, #f8f3de 0%, #f6f9f1 45%, #ebf6ee 100%);
+  min-height: 100vh;
+}
+
+.dark body {
+  background: radial-gradient(circle at 10% 10%, #1b302a 0%, #15211f 45%, #0f1a17 100%);
+}

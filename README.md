@@ -1,8 +1,8 @@
-# TravelBuddy 🌍✈️
+# TravelBuddy
 
 TravelBuddy is a modern, responsive React application designed to help users explore destinations, plan trips, and track group expenses seamlessly. Whether you're exploring the cultural heritage of Tamil Nadu or planning a weekend getaway with friends, TravelBuddy provides all the tools you need in one interactive dashboard.
 
-## 🚀 Features
+##  Features
 
 * **Destination Exploration:** Discover cities and places with rich details, dynamic images, and interactive map views.
 * **Interactive Maps:** Built-in mapping using Leaflet to visualize places and locations.
@@ -13,7 +13,7 @@ TravelBuddy is a modern, responsive React application designed to help users exp
 * **Dark/Light Mode:** Full dark mode support using Tailwind CSS for comfortable viewing at any time of day.
 * **Responsive Design:** Fully optimized for mobile, tablet, and desktop devices.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend Framework:** [React 18](https://react.dev/)
 * **Routing:** [React Router v6](https://reactrouter.com/)
@@ -23,7 +23,7 @@ TravelBuddy is a modern, responsive React application designed to help users exp
 * **State Management:** React Context API (`TripContext`, `ExpenseContext`)
 * **Build Tool:** [Vite](https://vitejs.dev/)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 TravelBuddy/
@@ -84,11 +84,9 @@ To preview the production build locally:
 npm run preview
 ```
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 * User Authentication & Profiles (Firebase/Supabase)
 * Real-time collaborative trip planning
 * Backend database integration for persistent storage
 * Export expense reports to PDF/CSV
 
----
-*Built with ❤️ for travelers by travelers.*

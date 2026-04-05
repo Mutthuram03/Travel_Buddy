@@ -88,5 +88,5 @@ npm run preview
 * User Authentication & Profiles (Firebase/Supabase)
 * Real-time collaborative trip planning
 * Backend database integration for persistent storage
-* Export expense reports to PDF/CSV
+* Export expense reports to PDF/CSV/
 
